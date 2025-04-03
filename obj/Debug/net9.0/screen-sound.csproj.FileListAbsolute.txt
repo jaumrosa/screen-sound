@@ -1,0 +1,14 @@
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\bin\Debug\net9.0\screen-sound.exe
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\bin\Debug\net9.0\screen-sound.deps.json
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\bin\Debug\net9.0\screen-sound.runtimeconfig.json
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\bin\Debug\net9.0\screen-sound.dll
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\bin\Debug\net9.0\screen-sound.pdb
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\obj\Debug\net9.0\screen-sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\obj\Debug\net9.0\screen-sound.AssemblyInfoInputs.cache
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\obj\Debug\net9.0\screen-sound.AssemblyInfo.cs
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\obj\Debug\net9.0\screen-sound.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\obj\Debug\net9.0\screen-sound.dll
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\obj\Debug\net9.0\refint\screen-sound.dll
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\obj\Debug\net9.0\screen-sound.pdb
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\obj\Debug\net9.0\screen-sound.genruntimeconfig.cache
+C:\Users\Computador\Desktop\Projetos\C#\screen-sound\obj\Debug\net9.0\ref\screen-sound.dll
